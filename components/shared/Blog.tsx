@@ -43,7 +43,7 @@ const Blog = () => {
     ))}
   </CardContent>
 <CardFooter className="flex flex-row">
-  <Button className="absolute bottom-2 right-2 text-secondary bg-primary">Read More</Button>
+  <Button className="absolute bottom-5 right-5 text-secondary bg-primary">Read More</Button>
 </CardFooter>
 </Card>
         </div>
