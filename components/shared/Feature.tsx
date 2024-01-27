@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from '../ui/button'
 import Image from 'next/image'
-import { baby} from '@/assets'
+import { baby } from '@/assets'
 import { Card, CardContent } from "@/components/ui/card"
 import {
   Carousel,
