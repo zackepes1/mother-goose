@@ -41,15 +41,19 @@ const Header = () => {
         </SheetContent>
         </Sheet>
   </div>
-        <div className="lg:p-10 text-primary bg-secondary flex flex-col lg:flex-row w-full justify-center  m-auto items-center lg:max-w-7xl">
+        <div className="lg:p-10 text-primary bg-secondary p-5 flex-col lg:flex-row flex lg:flex-1  w-full  m-auto items-center ">
         <Link href="/">
         <Image alt="logo"  className="bg-secondary h-full" width={100} src={logo}/>
         </Link>
         <Link href="/">
         <h1 className="font-mountains text-primary text-4xl p-5 lg:flex-1">Mother Goose Lactation</h1>
         </Link>
+
+        <div className="flex-1 flex flex-row justify-end">
         <Nav/>
         </div>
+        </div>
+   
        
      
     </div>

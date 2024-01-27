@@ -38,7 +38,7 @@ const Blog = () => {
   <Image className="object-contain rounded-xl" src={works.img} alt={works.title}/>
   {works.contents.map ((contents) =>(
       <div key={contents.id}>
-      <p className="flex justify-start items-start p-2">{contents.content}</p>
+      <p className="flex justify-start items-start pb-10 p-2">{contents.content}</p>
     </div>
     ))}
   </CardContent>
