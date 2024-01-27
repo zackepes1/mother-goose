@@ -7,8 +7,8 @@ const Hero = () => {
   return (
     <div>
         <section id='hero' className="flex text-primary bg-secondary m-auto overflow-hidden">
-            <div className="flex flex-col lg:flex-1 p-10">
-            <h1 className="text-5xl py-10 px-5 items-center text-center">
+            <div className="flex flex-col lg:flex-1 p-10 items-center justify-center">
+            <h1 className="text-5xl py-10 px-5 justify-center items-center text-center">
                 Embark on a Smooth Breastfeeding Journey
                 <span>
                     <h2 className="text-2xl py-5">
@@ -16,7 +16,7 @@ const Hero = () => {
                     </h2>
                 </span>
             </h1>
-            <p className="text-base p-5">
+            <p className="text-base p-5 text-center">
             The early days of motherhood are filled with wonder, but breastfeeding can also present its own set of challenges. That&apos;s where I come in, your personal lactation consultant. With Mother Goose Lactation, you don&apos;t have to navigate this journey alone. I offer tailored guidance and support to help you achieve your breastfeeding goals, whether you&apos;re a first-time mom or facing feeding difficulties.
             </p>
             <div className="flex flex-col items-center justify-center">
