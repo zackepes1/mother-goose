@@ -60,7 +60,7 @@ export const blogposts = [
       },
       {
         id: 2,
-        content: "That's when I stumbled upon Mother Goose Lactation consultants. From the first phone call, their warmth and genuine care shone through. I was connected with Sarah, a seasoned consultant with a wealth of knowledge and a smile that could calm a hurricane."
+        content: "That's when I stumbled upon Mother Goose Lactation consultants. From the first phone call, their warmth and genuine care shone through. I was connected with Kelsey, a seasoned consultant with a wealth of knowledge and a smile that could calm a hurricane."
       }
     ]
   },
@@ -90,7 +90,7 @@ export const blogposts = [
       },
       {
         id: 2,
-        content: "Then, a friend recommended Mother Goose. Enter David, a lactation consultant with a calming presence and a knack for making you feel like you're not alone. He listened to my worries without judgment, offering practical advice and gentle encouragement."
+        content: "Then, a friend recommended Mother Goose. Enter Kelsey, a lactation consultant with a calming presence and a knack for making you feel like you're not alone. He listened to my worries without judgment, offering practical advice and gentle encouragement."
       }
     ]
   }
