@@ -13,7 +13,7 @@ import {
 
 const Feature = () => {
   return (
-    <section id='feature' className="flex text-primary bg-secondary items-center">
+    <section id='feature' className="flex text-primary bg-secondary items-center lg:p-10">
           <div className="lg:flex-1 flex flex-col lg:flex-row items-center justify-center lg:p-10">
         <Image src={baby} alt="baby" className="rounded-2xl shadow-md items-center justify-center hidden lg:flex"/>
     </div>
