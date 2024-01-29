@@ -54,7 +54,12 @@ const config = {
         },
       },
       fontFamily: {
-        mountains: ["Mountains of Christmas", "serif"]
+        mountains: ["Mountains of Christmas", "serif"],
+        montserrat: ["Montserrat Alternates", "sans-serif"],
+        satisfy: ["Satisfy", "cursive"],
+        dancing: ["Dancing Script", "cursive"],
+        raleway: ["Raleway", "sans-serif"],
+        barlow: ["Barlow Condensed", "sans-serif"]
       },
       borderRadius: {
         lg: "var(--radius)",

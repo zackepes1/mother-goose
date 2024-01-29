@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from '../ui/button'
 import Image from 'next/image'
-import { hero, logo } from '@/assets'
+import { hero, logo2 } from '@/assets'
 import { FaFacebook, FaInstagram, FaLinkedin, FaYoutube, FaYoutubeSquare } from 'react-icons/fa'
 import { FaTwitter, FaXTwitter } from 'react-icons/fa6'
 import Link from 'next/link'
@@ -12,8 +12,7 @@ const Footer = () => {
         <section id='hero' className="flex text-primary bg-secondary m-auto overflow-hidden">
         <div className="flex flex-col items-start p-10">
           <div className="flex flex-row px-10">
-                <Image src={logo} alt="logo" width={100} height={50}/>
-                <h1 className="font-mountains text-primary text-4xl p-5">Mother Goose Lactation</h1>
+                <Image src={logo2} alt="logo" width={300} height={50}/>
                 </div>
                 <p className="px-10 py-5 font-semibold">Address:</p>
                   <p className="px-10">123 XXXXX Street<br/> Milford, OH 45150</p>

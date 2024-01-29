@@ -1,4 +1,5 @@
 import logo from "@/assets/logo.svg";
+import logo2 from "@/assets/logo2.svg";
 import hero from "@/assets/hero.jpg";
 import consultation from "@/assets/consultation.jpg";
 import support from "@/assets/support.jpg";
@@ -10,6 +11,7 @@ import blog3 from "@/assets/blog3.jpg";
 
 export {
 consultation,
+logo2,
 support,
 plan,
 logo,
