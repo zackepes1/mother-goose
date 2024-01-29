@@ -14,18 +14,18 @@ const Consulting = () => {
             Embrace a Smooth Breastfeeding Journey with Mother Goose Lactation
             </h1>
             <p className="text-lg p-5 font-montserrat lg:leading-8">
-            At Mother Goose Lactation, we understand that every breastfeeding journey is unique. That's why we offer personalized consulting services to support you every step of the way, from those first latch attempts to confident nursing routines.
+            At Mother Goose Lactation, we understand that every breastfeeding journey is unique. That&apos;s why we offer personalized consulting services to support you every step of the way, from those first latch attempts to confident nursing routines.
             </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2">
                 <div>
                     <p className="font-semibold pt-8 pb-5">Our experienced lactation consultants, known for their warmth, expertise, and unwavering support, are here to help you:</p>
                     <ul>
-                <li className="px-8 py-3 font-semibold text-primary">Overcome latching challenges: <span className="font-normal text-secondary">Whether it's a shallow latch, tongue tie concerns, or simply finding the right position, we'll guide you and your baby towards comfortable and effective feedings.</span></li>
-                <li className="px-8 py-3 font-semibold text-primary">Boost your milk supply: <span className="font-normal text-secondary"> Worried about low milk supply? We'll assess your situation and offer personalized strategies, including pumping tips, diet and herbal recommendations, and stress management techniques.</span></li>
+                <li className="px-8 py-3 font-semibold text-primary">Overcome latching challenges: <span className="font-normal text-secondary">Whether it&apos;s a shallow latch, tongue tie concerns, or simply finding the right position, we&apos;ll guide you and your baby towards comfortable and effective feedings.</span></li>
+                <li className="px-8 py-3 font-semibold text-primary">Boost your milk supply: <span className="font-normal text-secondary"> Worried about low milk supply? We&apos;ll assess your situation and offer personalized strategies, including pumping tips, diet and herbal recommendations, and stress management techniques.</span></li>
                 <li className="px-8 py-3 font-semibold text-primary">Navigate feeding difficulties:<span className="font-normal text-secondary"> From fussy babies to managing reflux, we have the experience and knowledge to address common challenges and help you find solutions that work for you and your little one. </span></li>
-                <li className="px-8 py-3 font-semibold text-primary">Build confidence and trust:<span className="font-normal text-secondary"> We believe in empowering mothers to feel confident and capable in their breastfeeding journey. We'll provide reassurance, celebrate your milestones, and answer all your questions along the way. </span></li>
-                <li className="px-8 py-3 font-semibold text-primary">Create a customized plan:<span className="font-normal text-secondary"> Forget one-size-fits-all approaches. We'll tailor a plan that considers your individual needs, lifestyle, and breastfeeding goals.</span></li>
+                <li className="px-8 py-3 font-semibold text-primary">Build confidence and trust:<span className="font-normal text-secondary"> We believe in empowering mothers to feel confident and capable in their breastfeeding journey. We&apos;ll provide reassurance, celebrate your milestones, and answer all your questions along the way. </span></li>
+                <li className="px-8 py-3 font-semibold text-primary">Create a customized plan:<span className="font-normal text-secondary"> Forget one-size-fits-all approaches. We&apos;ll tailor a plan that considers your individual needs, lifestyle, and breastfeeding goals.</span></li>
                 <li className="px-8 py-3 font-semibold text-primary">Connect with a supportive community:<span className="font-normal text-secondary"> Join our online forum and connect with other mothers on similar journeys. Share experiences, tips, and encouragement in a safe and supportive space.</span></li>
                 </ul>
             </div>
