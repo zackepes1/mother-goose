@@ -33,14 +33,14 @@ export function Nav() {
           </Link>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="#howitworks" legacyBehavior passHref>
+          <Link href="/#howitworks" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               How it Works
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="#blog" legacyBehavior passHref>
+          <Link href="/#blog" legacyBehavior passHref>
             <NavigationMenuLink className={navigationMenuTriggerStyle()}>
               Blog
             </NavigationMenuLink>
